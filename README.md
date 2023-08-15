@@ -1,8 +1,8 @@
 # Halo! 
 
-Perkenalkan nama saya **Fauzan Rizkyana Gunawan**.\
+Perkenalkan nama saya **Fauzan Rizkyana Gunawan**.
 
-Saya seorang **Mahasiswa** di Sekolah Tinggi Teknologi Bandung.\
+Saya seorang **Mahasiswa** di Sekolah Tinggi Teknologi Bandung.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin saya](https://www.linkedin.com/in/fauzan-rizkyana-gunawan-666a11279/).
 
